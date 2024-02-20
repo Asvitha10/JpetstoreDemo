@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="true" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="TestNG.Registration_JPetstore "/>
+      <class name="TestNG. AddToCart_JPetstore"/>
+       <class name="TestNG.Login_JPetstore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
